@@ -13,6 +13,6 @@ do {
 
   console.log('zero2hero+'+postfix+" = "+hash);
 }
-while(!hash.startsWith("00000"));
+while(!hash.startsWith("000000"));
 
 console.log("\nFound! Hash: "+hash);
