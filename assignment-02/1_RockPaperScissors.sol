@@ -27,7 +27,7 @@ contract RockPaperScissors is VRFConsumerBaseV2 {
     bytes32                                 s_keyHash;
     mapping(uint256 => GameStatus) public   s_games;
 
-    event PlayerGameResult(address player, GameResult result);
+    event PlayerGameResult(address indexed player, GameResult result);
 
     // @dev Check https://docs.chain.link/vrf/v2/subscription/supported-networks for details
     // The following values for BSC Testnet
