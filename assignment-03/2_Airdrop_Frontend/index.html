@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>0xDeFace Tokens Airdrop</title>
+        <meta name="robots" content="noindex">
+        <meta name="darkreader-lock"> <!-- prevent Dark Reader plugin for Firefox/Chrome work on this site -->
+        <link rel="stylesheet" href="style.css" />
+        <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js" type="application/javascript"></script>
+    </head>
+
+    <body class="container">
+        <div class="container-centered">
+            <div id="claiming">
+                <p>Far far away in the BNB SmartChain Testnet galaxy</p>
+                <p>There is a something special for you</p>
+                <p>There is an amazing ERC-20 0xDeFace tokens!</p>
+                <p>Wow! Claim them right now!</p>
+
+                <div id="submit-claim">
+                    <input type="text" id="proof" placeholder="Paste your proof here" size="30">
+                    <div class="button-container">
+                        <a class="button" id="button-claim" href="#" style="--color: #ff1867;">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Claim
+                        </a>
+                    </div>
+                </div>
+                <div id="wait-claim" style="display: none;">
+                    <p style="color: #ff1867;">Wait for transaction confirmation!</p>
+                </div>
+            </div>
+            <div id="claimed-already" style="display: none;">
+                <p>Far far away in the BNB SmartChain Testnet galaxy</p>
+                <p>There was a something special for you</p>
+                <p>There was an amazing ERC-20 0xDeFace tokens!</p>
+                <p>But you are already claimed them</p>
+                <p>Now relax!</p>
+            </div>
+        </div>
+
+        <!-- background -->
+        <div class='stars'></div>
+        <div class='twinkling'></div>
+        <div class='clouds'></div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
