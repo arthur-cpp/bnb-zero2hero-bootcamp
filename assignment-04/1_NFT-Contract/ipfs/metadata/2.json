@@ -1,0 +1,11 @@
+{
+    "description": "Cool NFTs",
+    "image": "ipfs://QmaZsFMBo4bSvgDGmmGrQxTjX7BqRPTvEnYSZcA9TREHuf/2.png", 
+    "name": "Seal Unicorn",
+    "attributes": [
+    {
+        "trait_type": "Cool",
+        "value": "Yes"
+    }
+    ]
+}

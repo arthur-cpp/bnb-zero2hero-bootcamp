@@ -1,0 +1,11 @@
+{
+    "description": "Cool NFTs",
+    "image": "ipfs://QmaZsFMBo4bSvgDGmmGrQxTjX7BqRPTvEnYSZcA9TREHuf/3.png", 
+    "name": "Epic Face",
+    "attributes": [
+    {
+        "trait_type": "Cool",
+        "value": "Yes"
+    }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "description": "Cool NFTs",
+    "image": "ipfs://QmaZsFMBo4bSvgDGmmGrQxTjX7BqRPTvEnYSZcA9TREHuf/1.png", 
+    "name": "Crab",
+    "attributes": [
+    {
+        "trait_type": "Cool",
+        "value": "Yes"
+    }
+    ]
+}

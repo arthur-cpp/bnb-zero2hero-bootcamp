@@ -1,0 +1,11 @@
+{
+    "description": "Cool NFTs",
+    "image": "ipfs://QmaZsFMBo4bSvgDGmmGrQxTjX7BqRPTvEnYSZcA9TREHuf/4.png", 
+    "name": "Ketchup",
+    "attributes": [
+    {
+        "trait_type": "Cool",
+        "value": "Yes"
+    }
+    ]
+}

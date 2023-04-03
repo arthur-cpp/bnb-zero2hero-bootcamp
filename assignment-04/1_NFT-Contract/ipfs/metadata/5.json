@@ -1,0 +1,11 @@
+{
+    "description": "Cool NFTs",
+    "image": "ipfs://QmaZsFMBo4bSvgDGmmGrQxTjX7BqRPTvEnYSZcA9TREHuf/5.png", 
+    "name": "Among us",
+    "attributes": [
+    {
+        "trait_type": "Cool",
+        "value": "Yes"
+    }
+    ]
+}
