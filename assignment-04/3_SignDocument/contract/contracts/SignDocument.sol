@@ -43,6 +43,7 @@ contract SignDocument {
         require(_proposal.exists,"proposal not exists");
         require(_proposal.signer==address(0),"proposal is signed already");
         
+        _proposal.signer=msg.sender;
         emit ProposalSigned(msg.sender,_index);
     }
 }
