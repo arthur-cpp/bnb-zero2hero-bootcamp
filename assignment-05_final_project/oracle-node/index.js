@@ -61,7 +61,7 @@ async function main() {
 
     const now = timestamp();
     let   price = await fetchMarketwatchPrice();
-    price = price*Math.pow(10,process.env.SYMBOL_DIGITS);
+    price = Math.floor(price*Math.pow(10,process.env.SYMBOL_DIGITS));
 
     const sig = await makeSignature(roundId, now, price, signer);
     console.log(`Round ${roundId}: timestamp ${now}, price ${price}`);
