@@ -1,0 +1,14 @@
+{
+  "name": "sequencer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {"start": "node index.js"},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^2.3.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}

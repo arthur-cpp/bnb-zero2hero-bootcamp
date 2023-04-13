@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "htmlparser2": "^8.0.2"
+  }
+}
