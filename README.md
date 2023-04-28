@@ -1,12 +1,14 @@
-# BNB Zero2Hero Bootcamp (CIS) Assignments solutions
+# BNB Zero2Hero Bootcamp (CIS)
 
 ~~Прохожу буткемп и по мере прохождения выкладываю решенные задания.~~
 
 ## Результат
 
-* оценка по всем assignment-ам 10/10. Финальный проект сдан с высокой оценкой, занято 1 место в первой группе команд (всего две группы).
-* сертификат прохождения буткемпа: https://galxe.com/nft/6534490/0xADc466855ebe8d1402C5F7e6706Fccc3AEdB44a0
-* проверить, что адрес 0x000BD2D0322C21fAA0C8477a5a9bBE04cCC1C369 соответствует apmyp.eth можно в [ENS](https://app.ens.domains/apmyp.eth)
+![](nft-cert.png)
+
+* оценка по всем assignment-ам 10/10; финальный проект сдан с высокой оценкой, занято 1 место в первой группе команд (всего две группы)
+* [сертификат прохождения буткемпа](https://galxe.com/nft/6534490/0xADc466855ebe8d1402C5F7e6706Fccc3AEdB44a0)
+* [proof соответствия адреса apmyp.eth в ENS](https://app.ens.domains/apmyp.eth)
 
 ## Содержание
 
