@@ -4,11 +4,21 @@
 
 ## Результат
 
-![](nft-cert.png)
+* оценка по всем assignment-ам 10/10; финальный проект сдан с высокой оценкой, занято 1 место в первой группе команд (всего две группы, наша самая многочисленная)
+* [сертификат](https://galxe.com/nft/6534490/0xADc466855ebe8d1402C5F7e6706Fccc3AEdB44a0) прохождения буткемпа
+* он же как [NFT-сертификат](https://bscscan.com/tx/0xc8f5ff601a524691018093301d3a04f975978e889e4e3c1516692c00201a2de8)
+* [proof](https://app.ens.domains/apmyp.eth) соответствия адреса apmyp.eth в ENS
 
-* оценка по всем assignment-ам 10/10; финальный проект сдан с высокой оценкой, занято 1 место в первой группе команд (всего две группы)
-* [сертификат прохождения буткемпа](https://galxe.com/nft/6534490/0xADc466855ebe8d1402C5F7e6706Fccc3AEdB44a0)
-* [proof соответствия адреса apmyp.eth в ENS](https://app.ens.domains/apmyp.eth)
+
+### NFT-сертификат
+
+![](images/nft-cert.png)
+
+### Оценка преподавателей буткемпа
+| ![](images/score1.jpg) | ![](images/score2.jpg) |
+|---|---|
+
+![](images/twitter_yerasyl.png)
 
 ## Содержание
 
@@ -18,7 +28,7 @@
 
 ### Assignment 2
 
-* генерация и проверка Merkle tree
+* генерация и проверка [Merkle tree](assignment-02/merkle-tree/)
 * [смарт-контракт игры камень/ножницы/бумага с использованием Chainlink VRFv2](assignment-02/1_RockPaperScissors.sol)
 * [смарт-контракт формирования и подписи документов с проверкой по Merkle tree, выдача NFT подписи](assignment-02/2_SignDocument.sol)
 * [смарт-контракт эйрдропа с проверкой по Merkle tree](assignment-02/3_Airdrop.sol)
