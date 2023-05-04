@@ -8,6 +8,7 @@
 * [сертификат](https://galxe.com/nft/6534490/0xADc466855ebe8d1402C5F7e6706Fccc3AEdB44a0) прохождения буткемпа
 * он же как [NFT-сертификат](https://bscscan.com/tx/0xc8f5ff601a524691018093301d3a04f975978e889e4e3c1516692c00201a2de8)
 * [proof](https://app.ens.domains/apmyp.eth) соответствия адреса apmyp.eth в ENS
+* [именная NFT](https://testnet.bscscan.com/token/0x99742f6dabfb0cf35eee9e7ab6d0d6b86e564ece?a=9) была выпущена [Center of Blockchain](https://twitter.com/cofblockchain) в тестнете
 
 
 ### NFT-сертификат
